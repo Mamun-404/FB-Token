@@ -20,7 +20,7 @@ apt upgrade -y
 
 pkg install python git -y
 
-git clone https://github.com/Ariyanahmedmamun/FB-Token
+git clone https://github.com/Mamun-404/FB-Token
 
 cd FB-Token
 
