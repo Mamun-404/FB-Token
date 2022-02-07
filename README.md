@@ -20,7 +20,7 @@ apt upgrade -y
 
 pkg install python git -y
 
-git clone https://github.com/Toxic-Noob/FBTokenMaker
+git clone https://github.com/Ariyanahmedmamun/FB-Token
 
 cd FB-Token
 
