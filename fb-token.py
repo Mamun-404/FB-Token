@@ -1,6 +1,6 @@
 ################################################################
 # Author : Ariyan Ahmed Mamun
-# GitHub : https://github.com/Ariyanahmedmamun/
+# GitHub : https://github.com/Mamun-404
 # Coder   : Mamun
 # You Have No Permission To Copy Any Codes From This Script
 ################################################################
@@ -26,7 +26,7 @@ def logo():
     logopsb("\033[92m  ____          _____     _              \n / ___| ___ _ _|_   _|__ | | _____ _ __  \n| |  _ / _ \ '_ \| |/ _ \| |/ / _ \ '_ \ \n| |_| |  __/ | | | | (_) |   <  __/ | | |\n \____|\___|_| |_|_|\___/|_|\_\___|_| |_|\n                                         ")
     logopsb("\033[3;90m			Codded by Ariyan Ahmed Mamun\033[0;92m")
     time.sleep(0.8)
-    logopsb("\033[34m\n|****************************************************|\n|\033[3m Author   : Ariyan Ahmed MAMUN                      \033[0;34m|\n|\033[3m Tool     : Facebook Token Generator                \033[0;34m|\n|\033[3m Version  : 1.0                                     \033[0;34m|\n|\033[3m Link     : https://github.com/Ariyanahmedmamun/    \033[0;34m|\n|\033[3m Coded By : MAMUN                                   \033[0;34m|\n******************************************************")
+    logopsb("\033[34m\n|****************************************************|\n|\033[3m Author   : Ariyan Ahmed MAMUN                      \033[0;34m|\n|\033[3m Tool     : Facebook Token Generator                \033[0;34m|\n|\033[3m Version  : 1.0                                     \033[0;34m|\n|\033[3m Link     : https://github.com/Mamun-404/    \033[0;34m|\n|\033[3m Coded By : MAMUN                                   \033[0;34m|\n******************************************************")
     time.sleep(1.0)
     
 
